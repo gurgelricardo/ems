@@ -1,0 +1,11 @@
+INSERT INTO students (id, name, surname, email, phone_number, social_cpf, social_rg, address, birth_date, academic_register_number) VALUES
+('f8b2c5d1-6e9a-4f1e-8c3b-2d7a6e9b0c4a','Ana', 'Silva', 'ana.silva@example.com', '(85) 98877-1234', '111.222.333-44', '2004002003004', 'Rua das Flores, 123, Centro, Eusébio', '2005-05-15', 20251001),
+('a1e8d4c7-3b9f-4e6a-9b1c-8d7e6f5a4b3c','Bruno', 'Santos', 'bruno.santos@example.com', '(85) 99988-5678', '222.333.444-55', '2005003004005', 'Avenida Brasil, 456, Aldeota, Fortaleza', '2004-08-20', 20251002),
+('c3b9a8d1-7e6f-4a5b-8c1d-9e8f7a6b5c4d','Carla', 'Oliveira', 'carla.oliveira@example.com', '(85) 98765-4321', '333.444.555-66', '2006004005006', 'Travessa dos Artistas, 789, Meireles, Fortaleza', '2006-01-10', 20251003),
+('d1e8f7c3-6b5a-4d9e-8b1c-7a6f5e4d3c2b','Daniel', 'Pereira', 'daniel.pereira@example.com', '(85) 91234-5678', '444.555.666-77', '2004005006007', 'Rua da Praia, 101, Iracema, Fortaleza', '2004-11-30', 20251004),
+('e9f8a7b3-5c4d-4e3b-9a8c-6d5e4f3c2b1a','Eduarda', 'Costa', 'eduarda.costa@example.com', '(85) 95555-4444', '555.666.777-88', '2005006007008', 'Avenida da Universidade, 202, Benfica, Fortaleza', '2005-03-25', 20251005),
+('b3c9d8e1-4a5b-4f6c-8d7e-9f8a7b6c5d4e','Felipe', 'Martins', 'felipe.martins@example.com', '(85) 98888-9999', '666.777.888-99', '2004007008009', 'Rua dos Expedicionários, 303, Fátima, Fortaleza', '2004-07-12', 20251006),
+('7a6b5c4d-3e2f-4a1b-9c8d-8e7f6a5b4c3d','Gabriela', 'Rodrigues', 'gabriela.rodrigues@example.com', '(85) 97777-6666', '777.888.999-00', '2005008009010', 'Avenida Bezerra de Menezes, 404, Parquelândia, Fortaleza', '2005-09-05', 20251007),
+('5d4e3c2b-1a9f-4b8c-7d6e-6f5a4b3c2d1e','Heitor', 'Almeida', 'heitor.almeida@example.com', '(85) 96666-5555', '888.999.000-11', '2006009010011', 'Rua Professor Costa Mendes, 505, Rodolfo Teófilo, Fortaleza', '2006-02-18', 20251008),
+('9f8a7b6c-5d4e-4f3c-2b1a-1e9f8a7b6c5d','Isabela', 'Nunes', 'isabela.nunes@example.com', '(85) 95432-1098', '999.000.111-22', '2004010011012', 'Avenida Santos Dumont, 606, Aldeota, Fortaleza', '2004-12-01', 20251009),
+('4a5b6c7d-8e9f-4a1b-2c3d-4e5f6a7b8c9d','João', 'Gomes', 'joao.gomes@example.com', '(85) 98787-8787', '000.111.222-33', '2005011012013', 'Rua Padre Valdevino, 707, Joaquim Távora, Fortaleza', '2005-06-22', 20251010);
